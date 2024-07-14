@@ -4,15 +4,21 @@ Application Concept for healthier living and tracking daily tasks.
 # Concept
 
 -The concept of project is to make health-related cubes that captures healthy tasks throughout the day.
+
 -The cubes are tapable and have motion sensors.
+
 -A user also has a choice of connecting the cubes to an application on a phone.
+
 -The cubes can be rearranged as per the user’s priority on a particular day.
+
 -Once all of the tasks for a day have been achieved, the cubes shall turn green indicating the accomplishment.
 
 # Motive
 
 -The motive is - “not to be dependent on a smart watch or cell phones”. 
+
 -Keeping track of daily healthy habits without really keeping track.
+
 -Connecting to an app only if user wants to keep track of their healthy habits and see a summary over multiple devices. 
 
 # Storyboarding
