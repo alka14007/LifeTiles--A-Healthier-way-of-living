@@ -12,14 +12,14 @@ A user also has a choice of connecting the cubes to an application on a phone.
 The cubes can be rearranged as per the user’s priority on a particular day.
 
 Once all of the tasks for a day have been achieved, the cubes shall turn green indicating the accomplishment.
-![image](https://github.com/user-attachments/assets/888e35ac-3bfd-4673-b23e-e817cb88914c)
+
 
 # Motive
 
-The motive is - “not to be dependent on smart watch or cell phones”. 
-Keeping track of daily healthy habits without really keeping a track.
+The motive is - “not to be dependent on a smart watch or cell phones”. 
+Keeping track of daily healthy habits without really keeping track.
 Connecting to an app only if user wants to keep track of their healthy habits and see a summary over multiple devices. 
-![image](https://github.com/user-attachments/assets/eaad4d05-7386-4652-b071-78c95c813ed2)
+
 
 # Storyboarding
 ![image](https://github.com/user-attachments/assets/66b9ff57-3f1c-4fcb-876e-f422acdec5fe)
