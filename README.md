@@ -1,6 +1,8 @@
 # LifeTiles--A-Healthier-way-of-living
 Application Concept for healthier living and tracking daily tasks. 
 
+# Prototyping, Storyboarding, Application concept, Ideation
+
 # Concept
 
 -The concept of project is to make health-related cubes that captures healthy tasks throughout the day.
@@ -15,7 +17,7 @@ Application Concept for healthier living and tracking daily tasks.
 
 # Motive
 
--The motive is - “not to be dependent on a smart watch or cell phones”. 
+-The motive is - “not to be dependent on a smartwatch or cell phones”. 
 
 -Keeping track of daily healthy habits without really keeping track.
 
@@ -27,7 +29,7 @@ Application Concept for healthier living and tracking daily tasks.
 # The Process
 ![image](https://github.com/user-attachments/assets/46ffc2ea-f297-44d6-9635-8d5ba542391d)
 
-# When all the tasks has been achieved for the day
+# When all the tasks have been achieved for the day
 ![image](https://github.com/user-attachments/assets/ca7b8220-bdb9-4a59-8db9-2da01ee60b01)
 
 # When connected to an Application on the phone (if needed)
